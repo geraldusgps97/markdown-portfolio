@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+*Games
+ *Stardew Valley
+ *Dota2
+ *Terraria
+ *CSGO
+*Food
+ *Pasta
+ *Meat
+ *Fruit
+ *Vegetable
+ *Etc
